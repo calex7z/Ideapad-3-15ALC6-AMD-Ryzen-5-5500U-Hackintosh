@@ -5,7 +5,7 @@
 This repository may be deleted at any time, and using a prebuilt EFI is **not** recommended unless you have the same hardware compatibility for this EFI. I am not responsible for any damage or bricking of your laptop. Deal with it..
 
 # Status:
-EFI is in WIP..
+EFI is being tested..
 
 # System Requirements:
 **1- Laptop Model:** Lenovo Ideapad 3 (15ALC6)
