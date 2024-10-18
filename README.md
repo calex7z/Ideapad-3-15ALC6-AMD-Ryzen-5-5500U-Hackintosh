@@ -1,5 +1,7 @@
 # Hackintosh 14 (Sonoma)
 ![Banner](picture.png)
+<br>
+![Screenshot](screenshot.png)
 
 # Warning:
 This repository may be deleted at any time, and using a prebuilt EFI is **not** recommended unless you have the same hardware compatibility for this EFI. I am not responsible for any damage or bricking of your laptop. Deal with it..
